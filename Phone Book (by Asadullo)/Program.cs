@@ -16,7 +16,7 @@ namespace Phone_Book__by_Asadullo_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Phonebook());
         }
     }
 }
